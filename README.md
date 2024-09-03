@@ -2,6 +2,8 @@
 I created this app using React for participating in 100x Dev's Solana HAckathon. So, basically it's my hackathon project. 
 <br>
 I haven't any idea of Solana, Web3 or Blockchain but on the last video of Harkirat Singh. He told to Samay Raina that, if someone will make this (Solana Wallet Trasaction) project, atleast he can win $50. So, for that $50, I created this, with the help of AI.
+<br>
+[Access the Website](https://coderxarnab-solana-project-100xdev.netlify.app/)
 
 ## Screenshot : 
 ![My Image](ss.png)
